@@ -1,6 +1,6 @@
 # Data Science Course (2017) 
 <br />
-All code developed using Python 3.6.5
+All code developed using Python 3.6.5 <br />
 <br />
 -Course: Data Science <br />
 -Professors in charge: Dr. Diego Fernández Slezak & Dr. Alejo Salles <br />
